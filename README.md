@@ -1,4 +1,4 @@
-# shoopy
+# shoopy - Flutter_Shopping_App
 
 A new Flutter application.
 
@@ -14,6 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Description
+
+Shoopy app is a shopping app demo, written with flutter for iOS and Android using Bloc Pattern.
+
+Show carousel of images product, Drawer,categories of several shops.
+You can view products and navigate to details to add it to the cart list or buy it.
 
 ## Screen
 
